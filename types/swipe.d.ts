@@ -32,4 +32,4 @@ declare class Swipe {
     enable(): void;
 }
 
-export = Swipe;
+export default Swipe;
